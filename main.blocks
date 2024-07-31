@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="U1(~_ddr}FTW-aF;+),I" x="127" y="-135"></block><block type="pxt-on-start" id="%(EKR:k!0WsiEuT7k:2$" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="]_CTB@c}9,Uq(i=lV2_."><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_set_brightness" id="P5gj-?@`CbFN}h3O1|J)"><value name="value"><shadow type="math_number_minmax" id="m_6bM$M,s3R4J@OBNb6?"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">58</field></shadow></value><next><block type="device_show_leds" id=";|?i.G2?lC1@xI^1EVgX"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field><next><block type="device_set_brightness" id="(!Jx)tz9K-%B+w%K8FS+"><value name="value"><shadow type="math_number_minmax" id="PCbijo%s;Ld;Mg{0yOcR"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="device_show_leds" id=".G]U0h8MmV1`}tIvI~m$"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        # # # # #
+        `</field><next><block type="device_set_brightness" id="WRm[J!tr4YiF5[gY5KLA"><value name="value"><shadow type="math_number_minmax" id="jN|@Y|Y!B%odr5XYRGQQ"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="device_show_leds" id="iAHm:K+oqp%${+,ZiRHV"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
